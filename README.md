@@ -11,3 +11,5 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/lxdi) projects.
 | --- | --- |
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
+| `The Hottest Topics in Machine Learning` | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research |
+
